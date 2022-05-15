@@ -3,5 +3,5 @@ Financial Calculator written in python that calculates simple, compound interest
 
 ### Future functionality
 * Add a currency selection function
-* Front end created with tkinter
+* Create front end with tkinter
 * Add graph that show the interest graph
