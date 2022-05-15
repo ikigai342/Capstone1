@@ -1,4 +1,4 @@
-# Capstone1
+# Capstone Project 1
 Financial Calculator written in python that calculates simple, compound interest and bond payments.
 
 ### Current functionality
