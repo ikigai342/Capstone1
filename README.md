@@ -5,8 +5,3 @@ Financial Calculator written in python that calculates simple, compound interest
 * Basic console menu
 * Can calculate yearly simple and compound interest
 * Can calculate monthly bond payments
-
-### Future functionality
-* Add a currency selection function
-* Create front end with tkinter
-* Add graph that show the interest graph
